@@ -11,8 +11,3 @@ more advanced unsupervised methods may (and should) be employed as interesting o
 inital entieies will be "mirror" of each human player character
 other "components" will be added as the complexity of existing componenets are balanced.
 
-
-
-
-
-
