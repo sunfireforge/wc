@@ -11,3 +11,10 @@ more advanced unsupervised methods may (and should) be employed as interesting o
 inital entieies will be "mirror" of each human player character
 other "components" will be added as the complexity of existing componenets are balanced.
 
+# contributing
+
+this is a for fun and learning project. 
+an exersize in making your code tell a story
+code will be in python
+potential bounties for issue and task completion
+be part of the future past today!
