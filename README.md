@@ -8,7 +8,7 @@ inital design will be a text based mud with a queable limited turn based game lo
 all game world mechanics will be atleast based on simple (not deep) neural networks
 more advanced unsupervised methods may (and should) be employed as interesting opportuinities arise
 
-inital entieies will be "mirror" of each human player character
+inital entieies will be "mirror" of each human player character,
 other "components" will be added as the complexity of existing componenets are balanced.
 
 # contributing
