@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Wc.Engine
 {
-    class ElitePerson
+    public class Person
     {
     }
 }
