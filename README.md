@@ -14,7 +14,11 @@ other "components" will be added as the complexity of existing componenets are b
 # contributing
 
 this is a for fun and learning project. 
+
 an exersize in making your code tell a story
+
 code will be in python
+
 potential bounties for issue and task completion
+
 be part of the future past today!
