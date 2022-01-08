@@ -1,0 +1,44 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <DrawingBrush x:Key="tsxRedX" Stretch="Uniform">
+        <DrawingBrush.Drawing>
+            <DrawingGroup ClipGeometry="F1 M 0,0L 46.812,0L 46.812,46.8107L 0,46.8107L 0,0">
+                <DrawingGroup.Children>
+                    <GeometryDrawing Brush="#FFED1C24" Geometry="F1 M 46.812,8.48532L 38.3253,-3.05176e-005L 23.4054,14.9187L 8.48666,0.00131226L 0,8.48532L 14.92,23.4053L 0,38.3267L 8.48401,46.8106L 23.4054,31.8906L 38.3267,46.8106L 46.812,38.324L 31.892,23.404L 46.812,8.48532 Z " />
+                </DrawingGroup.Children>
+            </DrawingGroup>
+        </DrawingBrush.Drawing>
+    </DrawingBrush>
+
+    <DrawingBrush x:Key="tsxBlkT" Stretch="Uniform">
+        <DrawingBrush.Drawing>
+            <DrawingGroup ClipGeometry="F1 M 0,0L 46.736,0L 46.736,46.6947L 0,46.6947L 0,0">
+                <DrawingGroup.Children>
+                    <GeometryDrawing Brush="#FF231F20" Geometry="F1 M 29.3054,17.3333L 29.3054,0L 17.3054,0L 17.3054,17.3333L 0,17.3333L 0,29.3333L 17.3054,29.3333L 17.3054,46.6946L 29.3054,46.6946L 29.3054,29.3333L 46.736,29.3333L 46.736,17.3333L 29.3054,17.3333 Z " />
+                </DrawingGroup.Children>
+            </DrawingGroup>
+        </DrawingBrush.Drawing>
+    </DrawingBrush>
+
+    <DrawingBrush x:Key="tsxBlkDash" Stretch="Uniform">
+        <DrawingBrush.Drawing>
+            <DrawingGroup ClipGeometry="F1 M 0,0L 45.6667,0L 45.6667,12L 0,12L 0,0">
+                <DrawingGroup.Children>
+                    <GeometryDrawing Brush="#FF231F20" Geometry="F1 M 29.3053,0.0137939L 29.3053,-17.3195L 17.3053,-17.3195L 17.3053,0.0137939L -6.10352e-005,0.0137939L -6.10352e-005,12.0138L 17.3053,12.0138L 17.3053,29.3751L 29.3053,29.3751L 29.3053,12.0138L 46.736,12.0138L 46.736,0.0137939L 29.3053,0.0137939 Z " />
+                </DrawingGroup.Children>
+            </DrawingGroup>
+        </DrawingBrush.Drawing>
+    </DrawingBrush>
+
+    <DrawingBrush x:Key="tsxBlkO" Stretch="Uniform">
+        <DrawingBrush.Drawing>
+            <DrawingGroup ClipGeometry="F1 M 0,0L 46.7093,0L 46.7093,46.6947L 0,46.6947L 0,0">
+                <DrawingGroup.Children>
+                    <GeometryDrawing Brush="#FF231F20" Geometry="F1 M 34.64,34.6946L 11.9453,34.6946L 11.9453,12L 34.64,12M 0,46.6946L 46.7093,46.6946L 46.7093,-3.05176e-005L 0,-3.05176e-005L 0,46.6946 Z " />
+                </DrawingGroup.Children>
+            </DrawingGroup>
+        </DrawingBrush.Drawing>
+    </DrawingBrush>
+
+
+</ResourceDictionary>
