@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6v/YvhRAVQ0VC8vu4WEJgPlWt7xukjRYwSd/Edleun5iaY9lXFZFVUf5C3q7fLpF1usrfSikccCL6vzkqpjKQw==",
+  "dgSpecHash": "FLtJAsIEgj2fE8Tr6V6UcbDLRmTFo6oAMNcnrNTqE+8khIiN/Bt69/agocGavUgsycN88rmLJHttjUstV8QQbg==",
   "success": true,
-  "projectFilePath": "E:\\repos\\Manipulator\\Man.Ux\\Man.Ux.csproj",
+  "projectFilePath": "D:\\repos\\github\\joshzampino\\wc\\Man.Ux\\Man.Ux.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joshz\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
     "C:\\Users\\joshz\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
