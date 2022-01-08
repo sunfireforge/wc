@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Wc.Engine
 {
-    public class Bedroom : Room
+    public class BedroomSpecial : Room
     {
         readonly bool AllowMirrorEntites = false;
 
