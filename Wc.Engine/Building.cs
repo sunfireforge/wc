@@ -2,7 +2,9 @@
 
 namespace Wc.Engine
 {
-    public class HeliosDwelling
+    public class Building
     {
+        
+
     }
 }

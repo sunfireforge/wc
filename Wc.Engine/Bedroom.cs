@@ -6,8 +6,11 @@ namespace Wc.Engine
 {
     public class Bedroom : Room
     {
-        readonly bool AllowMirrorEntites = false;
-
+        
+        public Bedroom()
+        {
+            this.AllowEntities = false;
+        }
 
     }
 }

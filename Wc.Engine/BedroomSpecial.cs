@@ -6,7 +6,7 @@ namespace Wc.Engine
 {
     public class BedroomSpecial : Room
     {
-        readonly bool AllowMirrorEntites = false;
+        
 
 
     }

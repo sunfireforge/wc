@@ -4,7 +4,11 @@ using System.Text;
 
 namespace Wc.Engine
 {
-    class MirrorEnttity
+    public class Body
     {
+        
+
+
     }
+
 }
