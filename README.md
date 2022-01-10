@@ -22,3 +22,7 @@ code will be in python
 potential bounties for issue and task completion
 
 be part of the future past today!
+
+# questions / comments
+bruisedskyparanormal@gmail.com
+
