@@ -4,7 +4,7 @@ wc is a simulation of what it might be like to be an AI in a socially diverse ci
 agents will permutate component parts to find the most successful traits based on
 a emergent social heirarchey and system of reward.
 
-inital design will be a text based mud with a queable limited turn based game loop (no gui/graphics)
+inital design will be a text based mud with a queable turn based game loop (limited gui/graphics)
 all game world mechanics will be atleast based on simple (not deep) neural networks
 more advanced unsupervised methods may (and should) be employed as interesting opportuinities arise
 
