@@ -77,7 +77,7 @@ namespace stonkbot.Controls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Man.Ux;component/controls/controlbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Man.Ux;V1.0.0.0;component/controls/controlbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Controls\ControlBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

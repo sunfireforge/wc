@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\github\\joshzampino\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj": {}
+    "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj": {}
   },
   "projects": {
-    "D:\\repos\\github\\joshzampino\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj": {
+    "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\github\\joshzampino\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
+        "projectUniqueName": "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
         "projectName": "Bsp.Abfon",
-        "projectPath": "D:\\repos\\github\\joshzampino\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
+        "projectPath": "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
         "packagesPath": "C:\\Users\\joshz\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\github\\joshzampino\\wc\\Bsp.Abfon\\obj\\",
+        "outputPath": "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
