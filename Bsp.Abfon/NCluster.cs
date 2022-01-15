@@ -10,7 +10,7 @@ namespace Bsp.Abfon
 
         public int MedicalSwarmSize = 1000000;
         public int FactorySwarmSize = 1000000;
-        public int BoomSwarmSize = 0;
+        public int BoomSwarmSize = 10000;
 
         public NCluster()
         {
