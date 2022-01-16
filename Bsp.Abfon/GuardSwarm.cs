@@ -12,8 +12,11 @@ namespace Bsp.Abfon
         {
             roleComp = new NRoleComp
             {
-                Attack = Size.Small,
+                Attack = Size.None,
                 Defend = Size.Massive,
+                Repair = Size.Large,
+                Gather = Size.Large
+                
             };
         }
     }
