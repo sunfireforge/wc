@@ -11,22 +11,31 @@ namespace Bsp.Abfon
 
         public int MedicalSwarmSize = 1000000;
         public int FactorySwarmSize = 1000000;
+        public int MarkerSwarmSize = 1000;
         public int BoomSwarmSize = 10000;
-        public int GuardSwarm = 10000;     
+        public int GuardSwarm = 100000;     
         
         public NCluster()
         {
+ 
+        }
 
+        public void Deploy()
+        {
             do
             {
 
-                for (int i = 0; i < MedicalSwarmSize; i++)
+                for (int i = 0; i < GuardSwarm; i++)
                 {
                     nSwarms.Add(new GuardSwarm());
                 }
 
+                for (int i = 0; i < MarkerSwarmSize; i++)
+                {
+                    nSwarms.Add(new MarkerSwarm());
+                }
 
-                for (int i = 0; i < MedicalSwarmSize; i++)
+                for (int i = 0; i < BoomSwarmSize; i++)
                 {
                     nSwarms.Add(new BoomSwarm());
                 }
@@ -43,8 +52,10 @@ namespace Bsp.Abfon
 
                 Thread.Sleep(TimeSpan.FromMinutes(60));
 
-            } while (true);
+                Environment.DeployCluster(this);
 
+            } while (true);
         }
+
     }
 }

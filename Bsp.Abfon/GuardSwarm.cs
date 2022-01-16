@@ -10,14 +10,12 @@ namespace Bsp.Abfon
 
         public GuardSwarm()
         {
-            roleComp = new NRoleComp
-            {
-                Attack = Size.None,
-                Defend = Size.Massive,
-                Repair = Size.Large,
-                Gather = Size.Large
-                
-            };
+            roleComp = new NRoleComp();
+            roleComp.RoleGroups["Attack"] = (int)Size.None;
+            roleComp.RoleGroups["Defend"] = (int)Size.Massive;
+            roleComp.RoleGroups["Repair"] = (int)Size.Large;
+            roleComp.RoleGroups["Gather"] = (int)Size.Large;
+
         }
     }
 }

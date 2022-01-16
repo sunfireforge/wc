@@ -10,11 +10,9 @@ namespace Bsp.Abfon
 
         public BoomSwarm()
         {
-            roleComp = new NRoleComp
-            {
-                Attack = Size.Large,
-                Defend = Size.Large,
-            };
+            roleComp = new NRoleComp();
+            roleComp.RoleGroups["Attack"] = (int)Size.Large;
+            roleComp.RoleGroups["Defend"] = (int)Size.Large;
         }
     }
 }

@@ -10,12 +10,10 @@ namespace Bsp.Abfon
 
         public MedSwarm()
         {
-            roleComp = new NRoleComp
-            {
-                Attack = Size.None,
-                OrgainicGather = Size.Large,
-                OrganicRepair = Size.Large
-            };
+            roleComp = new NRoleComp();
+            roleComp.RoleGroups["Attack"] = (int)Size.None;
+            roleComp.RoleGroups["OrgainicGather"] = (int)Size.Large;
+            roleComp.RoleGroups["OrganicRepair"] = (int)Size.Large;
         }
 
     }

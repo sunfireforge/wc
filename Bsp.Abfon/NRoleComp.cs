@@ -6,30 +6,48 @@ namespace Bsp.Abfon
 {
     public class NRoleComp
     {
+
+        public Dictionary<string, int> RoleGroups;
+
         public NRoleComp()
         {
-            
+            RoleGroups = new Dictionary<string, int>
+            {
+                { "OrgainicGather", (int)Size.Medium },
+                { "OrganicRepair" , (int)Size.Medium },
+                { "Attack", (int)Size.Medium },
+                { "Gather" , (int)Size.Medium },
+                { "Builder" ,(int)Size.Medium },
+                { "Repair", (int)Size.Medium },
+                { "Defend", (int)Size.Medium },
+                { "PointNav", (int)Size.Medium },
+                { "EvadeNav", (int)Size.Medium },
+                { "TacticleNav", (int)Size.Medium },
+                { "Targeting",(int)Size.Medium }
+            };
         }
 
-        public Size OrgainicGather = Size.Medium;
-        public Size OrganicRepair = Size.Medium;
-        public Size Attack = Size.Medium;
-        public Size Gather = Size.Medium;
-        public Size Builder = Size.Medium;
-        public Size Repair = Size.Medium;
-        public Size Defend = Size.Medium;
-        public Size PointNav = Size.Medium;
-        public Size EvadeNav = Size.Medium;
-        public Size TacticleNav = Size.Medium;
-        public Size Targeting = Size.Medium;
+        public int GetSubset(string fromGroup, int count)
+        {
+            if (RoleGroups[fromGroup] >= count)
+            {
+                var t = RoleGroups[fromGroup];
+                RoleGroups[fromGroup] = t - count;
+                return RoleGroups[fromGroup];
+            }
+
+            throw new Exception("Not enough bots in group");
+
+        }
+
     }
 
     public enum Size
     {
-        Small,
-        Medium,
-        Large,
-        Massive,
-        None
+        Small = 50000,
+        Medium = 500000,
+        Large = 5000000,
+        Massive = 10000000,
+        None = 0
     }
 }

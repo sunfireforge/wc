@@ -12,9 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".git", ".git", "{242A0A53-2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wc.Engine", "Wc.Engine\Wc.Engine.csproj", "{A3453396-7F30-4E6C-82EC-5BD6A013FE96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wc.Pieces", "Wc.Pieces\Wc.Pieces.csproj", "{C24E72BA-2DE5-4E31-A028-70C2EC9AA6DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wc.Pieces", "Wc.Pieces\Wc.Pieces.csproj", "{C24E72BA-2DE5-4E31-A028-70C2EC9AA6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsp.Abfon", "Bsp.Abfon\Bsp.Abfon.csproj", "{A5F143D9-31F8-49E4-A91F-573F1D22AE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bsp.Abfon", "Bsp.Abfon\Bsp.Abfon.csproj", "{A5F143D9-31F8-49E4-A91F-573F1D22AE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsp.Console", "Bsp.Console\Bsp.Console.csproj", "{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +40,10 @@ Global
 		{A5F143D9-31F8-49E4-A91F-573F1D22AE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F143D9-31F8-49E4-A91F-573F1D22AE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F143D9-31F8-49E4-A91F-573F1D22AE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
