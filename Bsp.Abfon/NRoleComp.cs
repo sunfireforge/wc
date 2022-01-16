@@ -39,7 +39,6 @@ namespace Bsp.Abfon
             throw new Exception("Not enough bots in group");
 
         }
-
     }
 
     public enum Size

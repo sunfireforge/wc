@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bsp.Abfon\Bsp.Abfon.csproj">
+      <Project>{a5f143d9-31f8-49e4-a91f-573f1d22ae59}</Project>
+      <Name>Bsp.Abfon</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

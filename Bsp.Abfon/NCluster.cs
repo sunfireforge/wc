@@ -52,7 +52,7 @@ namespace Bsp.Abfon
 
                 Thread.Sleep(TimeSpan.FromMinutes(60));
 
-                Environment.DeployCluster(this);
+                World.DeployCluster(this);
 
             } while (true);
         }

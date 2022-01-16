@@ -17,7 +17,7 @@ namespace Bsp.Abfon
 
         protected override void Behavior()
         {
-            var ce = Environment.GetNextCrimeEvent(CrimeLevel.Felony);
+            var ce = World.GetNextCrimeEvent(CrimeLevel.Felony);
 
             if (ce.Item1 == 0)
             {
@@ -25,7 +25,7 @@ namespace Bsp.Abfon
             }
 
             var subset = roleComp.GetSubset("Defend", (int)Size.Small);
-            Environment.SendBuzzyBobble(ce, subset);
+            World.SendBuzzyBobble(ce, subset);
 
         }
     }

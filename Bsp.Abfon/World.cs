@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace Bsp.Abfon
 {
-    public class Environment
+    public class World
     {
 
         private static List<BuzzyBobble> _activeBobble = new List<BuzzyBobble>();
