@@ -2,12 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
+using Bsp.Abfon.Swarms;
 
 namespace Bsp.Abfon
 {
-    public class NCluster
+    public class Cluster
     {
-        public List<NSwarm> nSwarms { get => new List<NSwarm>(); }
+        //TODO: Refactor
+        public List<Swarm> nSwarms { get => new List<Swarm>(); }
 
         public int MedicalSwarmSize = 1000000;
         public int FactorySwarmSize = 1000000;
@@ -15,7 +17,7 @@ namespace Bsp.Abfon
         public int BoomSwarmSize = 10000;
         public int GuardSwarm = 100000;     
         
-        public NCluster()
+        public Cluster()
         {
  
         }
@@ -42,7 +44,7 @@ namespace Bsp.Abfon
 
                 for (int i = 0; i < MedicalSwarmSize; i++)
                 {
-                    nSwarms.Add(new MedSwarm());
+                    nSwarms.Add(new MedicalSwarm());
                 }
 
                 for (int i = 0; i < FactorySwarmSize; i++)

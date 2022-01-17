@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Bsp.Abfon.Swarms;
 
-namespace Bsp.Abfon
+namespace Bsp.Abfon.Swarms
 {
-    public class MarkerSwarm : NSwarm
+    public class MarkerSwarm : Swarm
     {
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
         public MarkerSwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.None;
             roleComp.RoleGroups["Defend"] = (int)Size.Massive;
         }

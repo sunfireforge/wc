@@ -2,15 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Bsp.Abfon
+namespace Bsp.Abfon.Swarms
 {
-    public class BoomSwarm : NSwarm
+    public class BoomSwarm : Swarm
     {
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
         public BoomSwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.Large;
             roleComp.RoleGroups["Defend"] = (int)Size.Large;
         }

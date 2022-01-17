@@ -6,18 +6,17 @@ namespace Bsp.Abfon
 {
     public class BuzzyBobble
     {
+        
+        public int Density;
 
-        int _target;
-        int _source;
-        int _count;
-
-
-        public BuzzyBobble(Tuple<int, int> ts, int count)
+        public BuzzyBobble()
         {
-            _target = ts.Item2;
-            _source = ts.Item1;
-            _count = count;
+            
+        }
 
+        public BuzzyBobble(int density)
+        {
+            Density = density;
         }
     }
 }

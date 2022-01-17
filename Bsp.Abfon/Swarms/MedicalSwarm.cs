@@ -2,19 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Bsp.Abfon
+namespace Bsp.Abfon.Swarms
 {
-    public class MedSwarm : NSwarm
+    public class MedicalSwarm : Swarm
     {
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
-        public MedSwarm()
+        public MedicalSwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.None;
             roleComp.RoleGroups["OrgainicGather"] = (int)Size.Large;
             roleComp.RoleGroups["OrganicRepair"] = (int)Size.Large;
         }
-
     }
 }

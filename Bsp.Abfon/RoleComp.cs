@@ -4,12 +4,12 @@ using System.Text;
 
 namespace Bsp.Abfon
 {
-    public class NRoleComp
+    public class RoleComp
     {
 
         public Dictionary<string, int> RoleGroups;
 
-        public NRoleComp()
+        public RoleComp()
         {
             RoleGroups = new Dictionary<string, int>
             {

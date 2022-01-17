@@ -16,7 +16,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wc.Pieces", "Wc.Pieces\Wc.P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bsp.Abfon", "Bsp.Abfon\Bsp.Abfon.csproj", "{A5F143D9-31F8-49E4-A91F-573F1D22AE59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsp.Console", "Bsp.Console\Bsp.Console.csproj", "{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsp", "Bsp.Console\Bsp.csproj", "{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

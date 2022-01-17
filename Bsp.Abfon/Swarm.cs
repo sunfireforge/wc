@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
+using Bsp.Abfon.Swarms;
 
 namespace Bsp.Abfon
 {
-    public class NSwarm
+    public class Swarm
     {
-        public NRoleComp Comp { get => new NRoleComp(); }
+        public RoleComp Comp { get => new RoleComp(); }
 
         protected virtual void Behavior()
         {
@@ -13,7 +14,7 @@ namespace Bsp.Abfon
         }
 
 
-        public NSwarm()
+        public Swarm()
         {
 
         }

@@ -8,7 +8,9 @@ namespace Bsp.Abfon
     {
 
         private static List<BuzzyBobble> _activeBobble = new List<BuzzyBobble>();
-        private static List<NCluster> _activeClusters = new List<NCluster>();
+        private static List<Cluster> _activeClusters = new List<Cluster>();
+        public static BuzzyBobbleGenerator _generator = new BuzzyBobbleGenerator();
+
 
         public static Tuple<int, int> GetNextCrimeEvent(CrimeLevel level)
         {
@@ -21,18 +23,16 @@ namespace Bsp.Abfon
             }
 
             return new Tuple<int, int>(0, 0);
-
         }
 
-        public static void DeployCluster(NCluster cluster)
+        public static void DeployCluster(Cluster cluster)
         {
             _activeClusters.Add(cluster);
         }
 
-
         public static void SendBuzzyBobble(Tuple<int, int> ts, int count )
         {
-            var b = new BuzzyBobble(ts, count);
+            var b = new BuzzyBobble(count);
 
             _activeBobble.Add(b);
         }
