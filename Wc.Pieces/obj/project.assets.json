@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\github\\bruisedsky\\wc\\Wc.Pieces\\Wc.Pieces.csproj",
+      "projectUniqueName": "D:\\repos\\github\\zerodaypara\\wc\\Wc.Pieces\\Wc.Pieces.csproj",
       "projectName": "Wc.Pieces",
-      "projectPath": "D:\\repos\\github\\bruisedsky\\wc\\Wc.Pieces\\Wc.Pieces.csproj",
+      "projectPath": "D:\\repos\\github\\zerodaypara\\wc\\Wc.Pieces\\Wc.Pieces.csproj",
       "packagesPath": "C:\\Users\\joshz\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\github\\bruisedsky\\wc\\Wc.Pieces\\obj\\",
+      "outputPath": "D:\\repos\\github\\zerodaypara\\wc\\Wc.Pieces\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

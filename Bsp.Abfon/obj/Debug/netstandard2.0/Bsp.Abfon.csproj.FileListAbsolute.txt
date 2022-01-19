@@ -9,9 +9,15 @@ D:\repos\github\joshzampino\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.pdb
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.deps.json
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.dll
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.pdb
-D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csprojAssemblyReference.cache
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.AssemblyInfoInputs.cache
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.AssemblyInfo.cs
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csproj.CoreCompileInputs.cache
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.dll
 D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.pdb
+D:\repos\github\bruisedsky\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csprojAssemblyReference.cache
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csprojAssemblyReference.cache
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.AssemblyInfoInputs.cache
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.AssemblyInfo.cs
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csproj.CoreCompileInputs.cache
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.dll
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.pdb

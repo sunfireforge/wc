@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\Man.Ux.csproj": {}
+    "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\Man.Ux.csproj": {}
   },
   "projects": {
-    "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\Man.Ux.csproj": {
+    "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\Man.Ux.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\Man.Ux.csproj",
+        "projectUniqueName": "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\Man.Ux.csproj",
         "projectName": "Man.Ux",
-        "projectPath": "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\Man.Ux.csproj",
+        "projectPath": "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\Man.Ux.csproj",
         "packagesPath": "C:\\Users\\joshz\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\obj\\",
+        "outputPath": "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

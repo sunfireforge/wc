@@ -7,34 +7,51 @@ namespace Bsp.Abfon
     public class World
     {
 
-        private static List<BuzzyBobble> _activeBobble = new List<BuzzyBobble>();
-        private static List<NCluster> _activeClusters = new List<NCluster>();
+        private static List<Angel> ActiveAngels = new List<Angel>();
+        private static List<Cluster> ActiveClusters = new List<Cluster>();
+        
+        public static AngelMaterializer Generator = new AngelMaterializer();
 
-        public static Tuple<int, int> GetNextCrimeEvent(CrimeLevel level)
+        public static object Thread { get; set; }
+
+        public static void Think()
+        {
+            GetNextCrimeEvent(CrimeLevel.Felony);
+        }
+
+        public static WorldEvent GetNextCrimeEvent(CrimeLevel level)
         {
             var r = new Random((int)DateTime.Now.Second);
             var seattlePopulation = 1000000;
+            var e = new WorldEvent();
+
+
+            e.EventType = "crime_event";
+            e.TargetId = r.Next(1, seattlePopulation);
+            e.RelatedIds.Add(r.Next(1, seattlePopulation));
+
+            e.Message = "ce from sim";
+
 
             if (level == CrimeLevel.Felony)
             {
-                return new Tuple<int, int>(r.Next(1, seattlePopulation), r.Next(1, seattlePopulation));
+                Console.WriteLine("new crime event (sim):  -> {0}", e);
+                return e;
             }
 
-            return new Tuple<int, int>(0, 0);
-
+            return null;
         }
 
-        public static void DeployCluster(NCluster cluster)
+        public static void DeployCluster(Cluster cluster)
         {
-            _activeClusters.Add(cluster);
+            ActiveClusters.Add(cluster);
         }
 
-
-        public static void SendBuzzyBobble(Tuple<int, int> ts, int count )
+        public static void SendAngel(int target, int density )
         {
-            var b = new BuzzyBobble(ts, count);
+            var b = new Angel(density);
 
-            _activeBobble.Add(b);
+            ActiveAngels.Add(b);
         }
     }
 

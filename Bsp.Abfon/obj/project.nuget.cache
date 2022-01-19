@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E9NJSiVm4zuLk/zc2oAcNLbpB2mWlWkTnzRdxAMNj8TUX1wBVxqKNhX3MqCZVlKjH80zeoFMTLe8QeTYHfKdEQ==",
+  "dgSpecHash": "AnSc43xwetitXT51AOxhv21Kog6O/kX40a8zY9IboZg5Yy/N1RPAIjDRDuND7qLn3CPqd7tvMVcxhXlTmeZxBA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\github\\bruisedsky\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
+  "projectFilePath": "D:\\repos\\github\\zerodaypara\\wc\\Bsp.Abfon\\Bsp.Abfon.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joshz\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],

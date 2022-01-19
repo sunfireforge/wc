@@ -8,3 +8,9 @@ D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.csproj.CoreCompi
 D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.csproj.CopyComplete
 D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.exe
 D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.pdb
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Newtonsoft.Json.dll
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Newtonsoft.Json.xml
+D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.csprojAssemblyReference.cache
+D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.csproj.CoreCompileInputs.cache
+D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.exe
+D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.pdb

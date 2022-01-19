@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4HQrk23rMmiWLPH1Jk9m7dwbOnutgDnmvqOGh7w14E4ds+G8tRWluSIzgZYpjWvU9o4kLKGm2z2RXauS+fCIeg==",
+  "dgSpecHash": "YvvuAdpMrFrQ4tO8sFAa390ByjRApqdbxVgzHWYa+Qs2dEh0kCb/jadGYPB8WbfQpBpf/EfEWdD4GgU3fB0Qyg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\github\\bruisedsky\\wc\\Man.Ux\\Man.Ux.csproj",
+  "projectFilePath": "D:\\repos\\github\\zerodaypara\\wc\\Man.Ux\\Man.Ux.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joshz\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
     "C:\\Users\\joshz\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",

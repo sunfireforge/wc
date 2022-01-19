@@ -1,0 +1,12 @@
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Bsp.Console.exe.config
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Bsp.Console.exe
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Bsp.Console.pdb
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Bsp.Abfon.dll
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Newtonsoft.Json.dll
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Bsp.Abfon.pdb
+D:\repos\github\bruisedsky\wc\Bsp.Console\bin\Debug\Newtonsoft.Json.xml
+D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.csprojAssemblyReference.cache
+D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.csproj.CoreCompileInputs.cache
+D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.csproj.CopyComplete
+D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.exe
+D:\repos\github\bruisedsky\wc\Bsp.Console\obj\Debug\Bsp.Console.pdb
