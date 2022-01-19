@@ -16,3 +16,12 @@ D:\repos\github\bruisedsky\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.Assem
 D:\repos\github\bruisedsky\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.csproj.CoreCompileInputs.cache
 D:\repos\github\bruisedsky\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.dll
 D:\repos\github\bruisedsky\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.pdb
+D:\repos\github\zerodaypara\wc\Wc.Pieces\bin\Debug\netstandard2.0\Wc.Pieces.deps.json
+D:\repos\github\zerodaypara\wc\Wc.Pieces\bin\Debug\netstandard2.0\Wc.Pieces.dll
+D:\repos\github\zerodaypara\wc\Wc.Pieces\bin\Debug\netstandard2.0\Wc.Pieces.pdb
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.csprojAssemblyReference.cache
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.AssemblyInfoInputs.cache
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.AssemblyInfo.cs
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.csproj.CoreCompileInputs.cache
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.dll
+D:\repos\github\zerodaypara\wc\Wc.Pieces\obj\Debug\netstandard2.0\Wc.Pieces.pdb

@@ -15,7 +15,7 @@ namespace Bsp.Abfon
             roleComp.RoleGroups["Defend"] = (int)Size.Massive;
             roleComp.RoleGroups["Repair"] = (int)Size.Large;
             roleComp.RoleGroups["Gather"] = (int)Size.Large;
-
+            roleComp.RoleGroups["Attractive"] = (int)Size.Large;
         }
     }
 }

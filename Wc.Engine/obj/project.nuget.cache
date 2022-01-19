@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIlE7s2xv5dBRksps/FpNRPYBwR5TgXf18lMAXHq9BVwqIb2vP2IiUnJsfUDFHTa2OG79mBVt1tE5hZ2sfK3nQ==",
+  "dgSpecHash": "osUhbnIZJkm2qoHbpmucByDca1P+QyM+yFtemlVRpvE7h/oDgobCDpyoN3nxt5ZSyzfM1iMsng/Yo8iyfIzdnQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\github\\bruisedsky\\wc\\Wc.Engine\\Wc.Engine.csproj",
+  "projectFilePath": "D:\\repos\\github\\zerodaypara\\wc\\Wc.Engine\\Wc.Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
