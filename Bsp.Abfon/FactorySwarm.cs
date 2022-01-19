@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Bsp.Abfon
 {
-    public class FactorySwarm : NSwarm
+    public class FactorySwarm : Swarm
     {
 
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
         public FactorySwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.None;
             roleComp.RoleGroups["Defend"] = (int)Size.Massive;
             roleComp.RoleGroups["Gather"] = (int)Size.Large;

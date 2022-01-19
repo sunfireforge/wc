@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Bsp.Abfon
 {
-    public class MedSwarm : NSwarm
+    public class MedSwarm : Swarm
     {
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
         public MedSwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.None;
             roleComp.RoleGroups["OrgainicGather"] = (int)Size.Large;
             roleComp.RoleGroups["OrganicRepair"] = (int)Size.Large;

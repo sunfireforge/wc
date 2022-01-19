@@ -14,3 +14,9 @@ D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.csprojAssemblyR
 D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.csproj.CoreCompileInputs.cache
 D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.exe
 D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.pdb
+D:\repos\github\zerodaypara\wc\Bsp.Console\bin\Debug\Bsp.Console.exe.config
+D:\repos\github\zerodaypara\wc\Bsp.Console\bin\Debug\Bsp.Console.exe
+D:\repos\github\zerodaypara\wc\Bsp.Console\bin\Debug\Bsp.Console.pdb
+D:\repos\github\zerodaypara\wc\Bsp.Console\bin\Debug\Bsp.Abfon.dll
+D:\repos\github\zerodaypara\wc\Bsp.Console\bin\Debug\Bsp.Abfon.pdb
+D:\repos\github\zerodaypara\wc\Bsp.Console\obj\Debug\Bsp.Console.csproj.CopyComplete

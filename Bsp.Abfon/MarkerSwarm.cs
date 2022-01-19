@@ -4,13 +4,13 @@ using System.Text;
 
 namespace Bsp.Abfon
 {
-    public class MarkerSwarm : NSwarm
+    public class MarkerSwarm : Swarm
     {
-        NRoleComp roleComp;
+        RoleComp roleComp;
 
         public MarkerSwarm()
         {
-            roleComp = new NRoleComp();
+            roleComp = new RoleComp();
             roleComp.RoleGroups["Attack"] = (int)Size.None;
             roleComp.RoleGroups["Defend"] = (int)Size.Massive;
         }
@@ -19,13 +19,13 @@ namespace Bsp.Abfon
         {
             var ce = World.GetNextCrimeEvent(CrimeLevel.Felony);
 
-            if (ce.Item1 == 0)
+            if (ce.TargetId == 0)
             {
                 return;
             }
 
             var subset = roleComp.GetSubset("Defend", (int)Size.Small);
-            World.SendBuzzyBobble(ce, subset);
+            World.SendAngel(ce.TargetId, subset);
 
         }
     }

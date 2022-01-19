@@ -21,3 +21,6 @@ D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.Asse
 D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.csproj.CoreCompileInputs.cache
 D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.dll
 D:\repos\github\zerodaypara\wc\Bsp.Abfon\obj\Debug\netstandard2.0\Bsp.Abfon.pdb
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.deps.json
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.dll
+D:\repos\github\zerodaypara\wc\Bsp.Abfon\bin\Debug\netstandard2.0\Bsp.Abfon.pdb

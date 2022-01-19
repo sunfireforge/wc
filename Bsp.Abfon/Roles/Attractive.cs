@@ -5,20 +5,22 @@ using System.Text;
 
 namespace Bsp.Abfon.Roles
 {
-    public class Defend : Role
+    public class Attractive : Role
     {
         public double[] PitchPath;
 
         public bool DisarmEnabled = true;
 
-        public Defend()
+        public Attractive()
         {
-            PitchPath = Generate.Sinusoidal(11, 192000, Math.Pow(2.10, 14), 1);
+            PitchPath = Generate.Sinusoidal(11, 192000, 1600000, 1);
         }
 
         public override double[] Move()
         {
             return Generate.Sinusoidal(63, 192000, Math.Pow(5.99, 14), 5);
         }
+
+
     }
 }

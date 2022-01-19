@@ -15,8 +15,6 @@ namespace Bsp
         static Task _main;
         static Task _loop;
 
-        static TheRiver _river = new TheRiver();
-
         static Dictionary<string, string> Config()
         {
             //string fileName = "acl.json";
