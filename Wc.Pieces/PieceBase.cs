@@ -18,7 +18,7 @@ namespace Wc.Pieces
 
         public virtual void Think ()
         {
-
+            
         }
 
 

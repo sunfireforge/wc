@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 
 namespace Wc.Pieces
@@ -13,9 +14,14 @@ namespace Wc.Pieces
 
         public List<Spirit> SpiritSet { get; private set; }
 
+        public override void Think()
+        {
+            if (HeartSet.Exists(x => x.Says == "motherfucker"))
+            {
+                HeartSet.Remove(HeartSet.First(x => x.Says == "motherfucker"));
+            }
 
-        
-
-
+            base.Think();
+        }
     }
 }

@@ -6,17 +6,35 @@ namespace Bsp.Abfon
 {
     public class Angel
     {
+
+        public string AdminOverride = "not i";
+
+        public float signal_a = 1.0f;
+        public float signal_z = 0.1f;
         
-        public int Density;
+        
+        private Dictionary<Mode, int> _mode;
 
         public Angel()
         {
-            
+
         }
 
-        public Angel(int density)
+
+        public Angel(Dictionary<Mode, int> mode)
         {
-            Density = density;
+            _mode = mode;
         }
+    }
+
+    [Flags]
+
+    public enum Mode
+    {
+        Clean,
+        Search,
+        Repair,
+        Build,
+        Remind
     }
 }
