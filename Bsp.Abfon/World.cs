@@ -65,6 +65,7 @@ namespace Bsp.Abfon
         public static void DeployMurry856(int location)
         {
             ActiveMurrys.Add(new Murry856() { location = "1" });
+            ActiveMurrys.Add(new Murry856() { location = "2" });
         }
     }
 
