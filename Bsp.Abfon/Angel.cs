@@ -28,7 +28,6 @@ namespace Bsp.Abfon
     }
 
     [Flags]
-
     public enum Mode
     {
         Clean,
