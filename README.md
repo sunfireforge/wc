@@ -24,5 +24,5 @@ potential bounties for issue and task completion
 be part of the future past today!
 
 # questions / comments
-bruisedskyparanormal@gmail.com
+josh@sunfireforge.com
 
