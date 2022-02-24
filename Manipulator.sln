@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bsp.Abfon", "Bsp.Abfon\Bsp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bsp.Console", "Bsp.Console\Bsp.Console.csproj", "{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snff.RiverPyrimid", "Snff.RiverPyrimid\Snff.RiverPyrimid.csproj", "{A2847D8C-B1B1-4FB6-A6BA-2EB4F94E9A00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5DF6BA9-F0A8-4B66-9006-7BEB6DDB3F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2847D8C-B1B1-4FB6-A6BA-2EB4F94E9A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2847D8C-B1B1-4FB6-A6BA-2EB4F94E9A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2847D8C-B1B1-4FB6-A6BA-2EB4F94E9A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2847D8C-B1B1-4FB6-A6BA-2EB4F94E9A00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

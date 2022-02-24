@@ -52,11 +52,11 @@ namespace Bsp.Abfon
         public static void SendAngel(int target, int density)
         {
             var b = new Angel(new Dictionary<Mode, int> {
-                {Mode.Build, 20 },
-                {Mode.Search, 20 },
-                {Mode.Repair, 20 },
-                {Mode.Remind, 20 },
-                {Mode.Clean, 20 }
+                {Mode.Build, 21 },
+                {Mode.Search, 21 },
+                {Mode.Repair, 21 },
+                {Mode.Remind, 21 },
+                {Mode.Clean, 21}
             });
 
             ActiveAngels.Add(b);

@@ -1,0 +1,4 @@
+D:\repos\github\zerodaypara\wc\Snff.RiverPyrimid\obj\Debug\netstandard2.0\Snff.RiverPyrimid.AssemblyInfoInputs.cache
+D:\repos\github\zerodaypara\wc\Snff.RiverPyrimid\obj\Debug\netstandard2.0\Snff.RiverPyrimid.AssemblyInfo.cs
+D:\repos\github\zerodaypara\wc\Snff.RiverPyrimid\obj\Debug\netstandard2.0\Snff.RiverPyrimid.csproj.CoreCompileInputs.cache
+D:\repos\github\zerodaypara\wc\Snff.RiverPyrimid\obj\Debug\netstandard2.0\Snff.RiverPyrimid.csprojAssemblyReference.cache

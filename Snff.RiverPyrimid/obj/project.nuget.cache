@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KcGZk1td9e8muLxJSJNz/zHirss+qP8jm96EN2ez+K6NcA7lqLA8MmOAuZIPf7uNmWV2B4fXEy1EvZo+/46kAQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\github\\zerodaypara\\wc\\Snff.RiverPyrimid\\Snff.RiverPyrimid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
